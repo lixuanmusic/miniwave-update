@@ -1,0 +1,12 @@
+{
+  "version": "1.0.1",
+  "buildNumber": 2,
+  "isRequired": false,
+  "releaseNotes": {
+    "en": "Bug fixes hahah",
+    "zh-Hans": "小修复",
+    "zh-Hant": "小修复繁体"
+  },
+  "downloadURL": "https://apps.apple.com/app/miniwave-audio-player/id123456789",
+  "releaseDate": "2025-06-30"
+}
