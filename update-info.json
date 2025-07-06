@@ -1,11 +1,11 @@
 {
-  "version": "1.0.0",
-  "buildNumber": 1,
+  "version": "1.1.0",
+  "buildNumber": 2,
   "isRequired": false,
   "releaseNotes": {
-    "en": "First Version",
-    "zh-Hans": "首个正式版本",
-    "zh-Hant": "首个正式版本"
+    "en": "New in 1.1.0: Waveform Zoom – Compatible with Mac Trackpads & Mouse.",
+    "zh-Hans": "1.1.0 新功能：波形缩放，已适配鼠标和Mac触控板",
+    "zh-Hant": "1.1.0 新功能：波形缩放，已适配鼠标和Mac触控板"
   },
   "downloadURL": "https://apps.apple.com/app/miniwave-audio-player/id123456789",
   "releaseDate": "2025-06-30"
