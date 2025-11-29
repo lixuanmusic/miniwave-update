@@ -1,0 +1,73 @@
+{
+  "version_ranges": [
+    {
+      "min_version": "1.2.0",
+      "max_version": "1.2.5",
+      "exclude_max": true,
+      "events": {
+        "app_launched": true,
+        "audio_file_opened": true,
+        "playback_started": false,
+        "playback_seeked": false,
+        "waveform_zoomed": false,
+        "volume_adjust": false,
+        "marker_panel_opened": false,
+        "marker_created": true,
+        "marker_deleted": false,
+        "marker_saved_to_file": true,
+        "marker_copied_to_clipboard": true,
+        "upgrade_button_clicked": true,
+        "upgrade_button_exposed": true,
+        "subscription_dialog_shown": true,
+        "trial_subscribe_clicked": true,
+        "trial_subscribe_success": true,
+        "buy_subscribe_clicked": true,
+        "buy_subscribe_success": true
+      }
+    },
+    {
+      "min_version": "3.3.0",
+      "max_version": "3.3.0",
+      "events": {
+        "app_launched": true,
+        "audio_file_opened": true,
+        "playback_started": false,
+        "playback_seeked": false,
+        "waveform_zoomed": false,
+        "volume_adjust": false,
+        "marker_panel_opened": false,
+        "marker_created": true,
+        "marker_deleted": false,
+        "marker_saved_to_file": true,
+        "marker_copied_to_clipboard": true,
+        "upgrade_button_clicked": true,
+        "upgrade_button_exposed": true,
+        "subscription_dialog_shown": true,
+        "trial_subscribe_clicked": true,
+        "trial_subscribe_success": true,
+        "buy_subscribe_clicked": true,
+        "buy_subscribe_success": true
+      }
+    }
+  ],
+  "default": {
+    "app_launched": true,
+    "audio_file_opened": true,
+    "playback_started": false,
+    "playback_seeked": false,
+    "waveform_zoomed": false,
+    "volume_adjust": false,
+    "marker_panel_opened": false,
+    "marker_created": true,
+    "marker_deleted": false,
+    "marker_saved_to_file": true,
+    "marker_copied_to_clipboard": true,
+    "upgrade_button_clicked": true,
+    "upgrade_button_exposed": true,
+    "subscription_dialog_shown": true,
+    "trial_subscribe_clicked": true,
+    "trial_subscribe_success": true,
+    "buy_subscribe_clicked": true,
+    "buy_subscribe_success": true
+  }
+}
